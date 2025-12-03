@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jamiu Adeyemo  
-### 🐍 Python Developer | 💻 Full-Stack Web Developer (React, Tailwind, Flask/Django/FastAPI)  
+### 🐍 Python Developer | 💻 Full-Stack Web Developer (React, Tailwind, Flask/Django/FastAPI, etc.)  
 #### 🚀 Building Scalable & High-Performance Web Applications
 
 ## 🚀 About Me  
