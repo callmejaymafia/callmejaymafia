@@ -14,7 +14,7 @@ I focus on clean architecture, fast APIs, and beautiful, responsive front-end in
 - **Instagram:** https://www.instagram.com/callmejaymafia/
 - **Facebook:** https://www.facebook.com/callmejaymafia/  
 - **X (Twitter):** https://www.x.com/callmejaymafia/
-- **WhatsApp:** https://www.wa.me/2347043335373/   
+- **WhatsApp:** https://wa.me/2347043335373/   
 - **Portfolio:** https://jamiuadeyemo.netlify.app/
 
 ⭐ **Feel free to explore my repos and follow for more projects!**
