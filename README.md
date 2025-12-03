@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jay  
+### 🐍 Python Developer | 💻 Full-Stack Web Developer (React, Tailwind, Flask/Django/FastAPI)  
+#### 🚀 Building Scalable & High-Performance Web Applications
 
-<!--
-**callmejaymafia/callmejaymafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I’m a passionate **Python & Full-Stack Developer** who loves building  
+**scalable**, **secure**, and **production-ready** web applications.  
+I focus on clean architecture, fast APIs, and beautiful, responsive front-end interfaces.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect With Me  
+- **Email:** callmejaymafia@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/callmejaymafia/  
+- **Portfolio:** https://jamiuadeyemo.netlify.app/
+
+---
+
+⭐ **Feel free to explore my repos and follow for more projects!**
