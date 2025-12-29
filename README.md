@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Jamiu Adeyemo  
 ### 🐍 Python Developer | 💻 Full-Stack Web Developer (React, Tailwind, Flask/Django/FastAPI, etc.)  
-#### 🚀 Building Scalable & High-Performance Web Applications
+#### 🚀 Passionate about problem-solving and crafting efficient solutions through code. Let's build something amazing together!
 
 ## 🚀 About Me  
-I’m a passionate **Python & Full-Stack Developer** who loves building  
-**scalable**, **secure**, and **production-ready** web applications.  
-I focus on clean architecture, fast APIs, and beautiful, responsive front-end interfaces.
+I am a professional Python developer and web developer with a strong focus on building efficient, scalable, and maintainable solutions. I thrive on problem-solving and enjoy translating complex ideas into clean, reliable code. With a disciplined approach to development and a commitment to continuous learning, I aim to deliver solutions that are both technically sound and impactful. Let’s build something purposeful and high-quality together.
 
 ## 📫 Connect With Me  
 - **Email:** callmejaymafia@gmail.com  
