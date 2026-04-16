@@ -20,28 +20,6 @@ I enjoy solving real problems, improving performance, and building tools that ar
 
 ---
 
-## Tech Stack
-
-### Languages
-- Python  
-- JavaScript / TypeScript  
-- SQL  
-
-### Frameworks & Libraries
-- Django  
-- Flask  
-- FastAPI  
-- React  
-- Tailwind CSS  
-
-### Tools & Platforms
-- Git & GitHub  
-- Docker  
-- Linux  
-- REST APIs  
-
----
-
 ## Current Interests
 
 - Building intelligent web applications powered by machine learning  
