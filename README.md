@@ -1,18 +1,65 @@
-# 👋 Hi, I'm Jamiu Adeyemo  
-### 🐍 Python Developer | 💻 Full-Stack Web Developer (React, Tailwind, Flask/Django/FastAPI, etc.)  
-#### 🚀 Passionate about problem-solving and crafting efficient solutions through code. Let's build something amazing together!
+# Hi, I'm Jamiu Adeyemo
 
-## 🚀 About Me  
-I am a professional Python developer and web developer with a strong focus on building efficient, scalable, and maintainable solutions. I thrive on problem-solving and enjoy translating complex ideas into clean, reliable code. With a disciplined approach to development and a commitment to continuous learning, I aim to deliver solutions that are both technically sound and impactful. Let’s build something purposeful and high-quality together.
+**Python Developer | Full-Stack Web Developer | Machine Learning Engineer**
 
-## 📫 Connect With Me  
-- **Email:** callmejaymafia@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/callmejaymafia/
-- **TikTok:** https://www.tiktok.com/@callmejaymafia/
-- **Instagram:** https://www.instagram.com/callmejaymafia/
-- **Facebook:** https://www.facebook.com/callmejaymafia/  
-- **X (Twitter):** https://www.x.com/callmejaymafia/
-- **WhatsApp:** https://wa.me/2347043335373/   
-- **Portfolio:** https://jamiuadeyemo.netlify.app/
+I’m a computer science enthusiast in my 20s focused on building scalable, reliable, and intelligent software. I enjoy turning ideas into real-world products through clean architecture, thoughtful design, and continuous learning.
 
-⭐ **Feel free to explore my repos and follow for more projects!**
+---
+
+## About Me
+
+I specialize in backend and full-stack development with Python and modern web technologies. My interests span across web applications, APIs, automation, and machine learning systems.
+
+I enjoy solving real problems, improving performance, and building tools that are practical, maintainable, and impactful.
+
+**Core focus areas**
+- Backend development and API design  
+- Full-stack web applications  
+- Machine learning and data-driven solutions  
+- Automation and developer tools  
+
+---
+
+## Tech Stack
+
+### Languages
+- Python  
+- JavaScript / TypeScript  
+- SQL  
+
+### Frameworks & Libraries
+- Django  
+- Flask  
+- FastAPI  
+- React  
+- Tailwind CSS  
+
+### Tools & Platforms
+- Git & GitHub  
+- Docker  
+- Linux  
+- REST APIs  
+
+---
+
+## Current Interests
+
+- Building intelligent web applications powered by machine learning  
+- Writing clean, scalable backend systems  
+- Exploring system design and software architecture  
+- Contributing to meaningful open-source projects  
+
+---
+
+## Connect With Me
+
+- Email: calmejaymafia@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/calmejaymafia/  
+- Portfolio: https://jamiuadeyemo.netlify.app/  
+- X (Twitter): https://www.x.com/calmejaymafia/  
+- Instagram: https://www.instagram.com/calmejaymafia/  
+- TikTok: https://www.tiktok.com/@calmejaymafia/  
+
+---
+
+*Feel free to explore my repositories and follow my journey.*
